@@ -10,6 +10,7 @@ Summary:       This program visualizes audio input
 Source:        http://www.logarithmic.net/pfh-files/synaesthesia/%name-%version.tar.bz2
 License:       GPL
 Url:	       http://www.logarithmic.net/pfh-files/synaesthesia/
+BuildRoot:     %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: SDL1.2-devel 
 BuildRequires: esound-devel
 
