@@ -1,6 +1,6 @@
 %define name synaesthesia
 %define version 2.4
-%define release %mkrel 1
+%define release %mkrel 3
 
 Name:          %{name}
 Version:       %{version}
